@@ -1,3 +1,3 @@
-example_id                                                                                                           | status | run_time        |
--------------------------------------------------------------------------------------------------------------------- | ------ | --------------- |
-/Users/jackhooper/Documents/Makers/Week Four - (Full Course)/bookmark-manager/spec/features/hello_world_spec.rb[1:1] | passed | 0.02577 seconds |
+example_id                               | status | run_time        |
+---------------------------------------- | ------ | --------------- |
+./spec/features/hello_world_spec.rb[1:1] | failed | 0.15217 seconds |
